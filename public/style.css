@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(216, 219, 226);
+    width: 960px;
+    margin: 0 auto;
+}
+
+.page {
+    background-color: white;
+}
